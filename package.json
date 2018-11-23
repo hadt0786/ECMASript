@@ -1,0 +1,11 @@
+{
+  "name": "ECMAScript",
+  "version": "1.0.0",
+  "description": "This is practise for ECMASCRIPT javasccript",
+  "main": "index.js",
+  "author": "Akash Mohan Chaudharyu <hadt0786@gmail.com>",
+  "license": "MIT LICENSE",
+  "dependencies": {
+    "node": "^11.1.0"
+  }
+}
